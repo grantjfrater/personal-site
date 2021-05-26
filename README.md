@@ -4,4 +4,4 @@ Started a little project of building my own portfolio which I can continue to im
 
 Nowhere near complete. Only Part that i'm happy with is the header. As you can see from the CSS I haven't applied any styling to the "About" section. 
 
-Link to live preveiw: https://romantic-brown-8435e4.netlify.app/
+Link to live preveiw: https://romantic-brown-8435e4.netlify.app/ (until I get my own domain)
