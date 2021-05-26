@@ -1,0 +1,31 @@
+body {
+    background-color:#000000ff;
+    font-family: 'Dosis', sans-serif;
+    color:#ffffffff;
+    position: relative;
+}
+
+header {
+    font-size: 75px;
+    color: #EA588DFF;
+    margin-top: 50px;
+    margin-left: 90px;
+    margin-bottom: 150px;
+}
+
+#slogan {
+    color: #ffffffff
+}
+
+#glasgow {
+    color: rgb(71, 163, 238)
+}
+
+/* ABOUT STYLING MISSING - INSERT HERE */
+
+
+
+footer{
+    text-align: right;
+}
+
