@@ -45,6 +45,12 @@ header {
 /* ABOUT STYLING MISSING - INSERT HERE */
 
 
+.aboutme {
+    text-align: center;
+    font-size: 45px;
+}
+
+
 
 footer{
     text-align: right;
